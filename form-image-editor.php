@@ -117,7 +117,7 @@ include("inc/nav.php");
 
 					<!-- Widget ID (each widget will need unique ID)-->
 
-					<div class="jarviswidget jarviswidget-sortable" id="wid-id-0" data-widget-togglebutton="false" data-widget-editbutton="false" data-widget-fullscreenbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false" role="widget" style="">
+					<div class="jarviswidget jarviswidget-sortable" id="wid-id-0" data-widget-togglebutton="false" data-widget-editbutton="false" data-widget-fullscreenbutton="false" data-widget-colorbutton="false" data-widget-deletebutton="false" role="widget">
 						<!-- widget options:
 						usage: <div class="jarviswidget" id="wid-id-0" data-widget-editbutton="false">
 

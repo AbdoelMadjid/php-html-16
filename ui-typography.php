@@ -363,6 +363,7 @@ include("inc/header.php");
 		color: #000099;
 	}/* Generic.Prompt */
 	.gs {
+		color: #000199;
 	}/* Generic.Strong */
 	.gu {
 		color: #003300;
